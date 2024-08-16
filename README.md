@@ -79,4 +79,4 @@ php artisan migrate
 This Laravel E-commerce Project is designed for a seamless and efficient online shopping experience for both users and administrators.
 
 thank you
-Walaa Zidan
+Walaa Hassan
